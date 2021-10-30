@@ -1,22 +1,14 @@
-.image-in-menu {
-    width: 150px;
-    height: 50px;
-}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
 
-.instagram-logo {
-    width: 50px;
-    height: 50px;
-}
-
-.burger-menu-li {
+.logo {
     text-align: center;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    text-transform: uppercase;
+    font-family: 'Nunito', sans-serif;
 }
 
-.burger-menu-a {
-    text-decoration: none;
-    color: black;
+.nav-bar {
+    font-family: 'Nunito', sans-serif;
 }
+
+
+
