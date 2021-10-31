@@ -1,0 +1,10 @@
+div .products {
+    border-radius: 12%;
+    border: solid;
+    border-color: black;
+}
+
+div article {
+    border-radius: 10px;
+    border: solid;
+}
