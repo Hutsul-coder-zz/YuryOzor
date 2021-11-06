@@ -22,7 +22,7 @@
         for (const product of products) {
             productsContainer.innerHTML += `
             <article>
-                <img src="${product.image}" alt="${product.title}"/>
+                <img class="image-products" src="${product.image}" alt="${product.title}"/>
                 <h3>${product.title}</h3>
                 <p>${product.description}</p>
                 <div class="buttons">
