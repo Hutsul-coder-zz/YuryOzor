@@ -8,7 +8,11 @@
 
 .nav-bar {
     font-family: 'Nunito', sans-serif;
+    text-align: center;
 }
 
-
+.nav-bar-a {
+    text-decoration: none;
+    margin: 10px;
+}
 
