@@ -1,10 +1,9 @@
-div .products {
-    border-radius: 12%;
-    border: solid;
-    border-color: black;
+.about-us {  /* backgroud wodden image */
+    background-image: url("../img/about-us/background.jpg");
+    background-attachment: fixed;
+    max-height: max-content;
 }
 
-div article {
-    border-radius: 10px;
-    border: solid;
+.about-us {
+    color: white;
 }

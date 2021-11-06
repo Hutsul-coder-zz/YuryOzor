@@ -3,15 +3,15 @@
     const products = [
         {
             id: 1,
-            title: "Table",
-            description: "Wodden table",
+            title: "Стіл",
+            description: "Дерев'яний стіл в стилі лофт",
             prise: 4000,
             image: "img/table.jpg"
         },
         {
             id: 2,
-            title: "Kitchen table",
-            description: "Wodden kitchen table",
+            title: "Стіл для кухні",
+            description: "Дерев'яний стіл для кухні",
             prise: 6000,
             image: "img/kitchen-table.jpg"
         }
@@ -26,8 +26,8 @@
                 <h3>${product.title}</h3>
                 <p>${product.description}</p>
                 <div class="buttons">
-                    <a class="button" href="product-info.html">Info</a>
-                    <button>${product.prise} - Купити</button>
+                    <a class="button" href="product-info.html">Інформація</a>
+                    <button>${product.prise} грн - Замовити</button>
                 </div>
             </article>
             `;
