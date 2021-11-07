@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 .about-us {  /* backgroud wodden image */
-    background-image: url("../img/about-us/background.jpg");
+    background-image: url("../img/about-us/1background.jpg");
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     max-height: max-content;
+    max-width: 100%;
 }
 
 .about-us {
-    color: white;
+    color: black;
+    font-family: 'Indie Flower', cursive;
 }
+

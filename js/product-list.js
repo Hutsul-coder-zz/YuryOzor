@@ -14,6 +14,13 @@
             description: "Дерев'яний стіл для кухні",
             prise: 6000,
             image: "img/kitchen-table.jpg"
+        },
+        {
+            id: 2,
+            title: "Сервант",
+            description: "Сервант для посуду",
+            prise: 8000,
+            image: "img/servant.jpg"
         }
     ];
 

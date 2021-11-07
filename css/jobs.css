@@ -3,13 +3,13 @@
     height: 200px;
 }
 
-div .products {
-    border-radius: 12%;
-    border: solid;
-    border-color: black;
+.products {
+    display: flex;
+    justify-content: center;
 }
 
 div article {
-    border-radius: 10px;
-    border: solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Indie Flower', cursive;
 }
